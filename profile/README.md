@@ -1,7 +1,6 @@
 # ASIMOV TECH SOLUTIONS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asimov-tech-solutions/.github/master/assets/logo.png" alt="ASIMOV TECH SOLUTIONS Logo" width="200"/>
   <h3>Transformando o Futuro com Tecnologia Inteligente</h3>
   <p>Combinamos IA avançada, desenvolvimento de software e automação para criar soluções que impulsionam o crescimento do seu negócio.</p>
 </div>
